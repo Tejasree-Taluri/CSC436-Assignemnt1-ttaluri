@@ -1,0 +1,14 @@
+
+body{
+    color: brown;
+    font-size: large;
+    position: fixed;
+}
+
+button{
+    color: black;
+    background-color: blanchedalmond;
+    outline-color: black;
+    position:absolute;
+}
+
